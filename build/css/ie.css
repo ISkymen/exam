@@ -1,0 +1,27 @@
+.slick {
+    width: 30%;
+    padding-right: 5px;
+    float: left;
+}
+
+.slick__image {
+
+
+
+    height: 400px;
+
+
+}
+
+.people__image {
+    behavior: url(build/css/border-radius.htc);
+}
+
+.people__image img {
+    behavior: url(build/css/border-radius.htc);
+}
+
+.region__title {
+    padding-top: 40px;
+    clear: both;
+}
