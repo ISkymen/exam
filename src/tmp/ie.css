@@ -11,7 +11,7 @@
 }
 
 .people__image {
-    behavior: url(build/css/border-radius.htc);
+    behavior: url(border-radius.htc);
 }
 
 .people__image img {
